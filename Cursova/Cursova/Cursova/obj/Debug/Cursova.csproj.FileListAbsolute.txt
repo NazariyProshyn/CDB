@@ -1,0 +1,10 @@
+C:\Users\nazar\OneDrive\Робочий стіл\Cursova\Cursova\Cursova\bin\Debug\Cursova.exe.config
+C:\Users\nazar\OneDrive\Робочий стіл\Cursova\Cursova\Cursova\bin\Debug\Cursova.exe
+C:\Users\nazar\OneDrive\Робочий стіл\Cursova\Cursova\Cursova\bin\Debug\Cursova.pdb
+C:\Users\nazar\OneDrive\Робочий стіл\Cursova\Cursova\Cursova\obj\Debug\Cursova.csprojAssemblyReference.cache
+C:\Users\nazar\OneDrive\Робочий стіл\Cursova\Cursova\Cursova\obj\Debug\Cursova.Form1.resources
+C:\Users\nazar\OneDrive\Робочий стіл\Cursova\Cursova\Cursova\obj\Debug\Cursova.Properties.Resources.resources
+C:\Users\nazar\OneDrive\Робочий стіл\Cursova\Cursova\Cursova\obj\Debug\Cursova.csproj.GenerateResource.cache
+C:\Users\nazar\OneDrive\Робочий стіл\Cursova\Cursova\Cursova\obj\Debug\Cursova.csproj.CoreCompileInputs.cache
+C:\Users\nazar\OneDrive\Робочий стіл\Cursova\Cursova\Cursova\obj\Debug\Cursova.exe
+C:\Users\nazar\OneDrive\Робочий стіл\Cursova\Cursova\Cursova\obj\Debug\Cursova.pdb
